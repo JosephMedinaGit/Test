@@ -23,5 +23,5 @@ Streeweb structure:
 
 ![Streeweb structure]
 
-[Streeweb structure]: (https://raw.github.com/JosephMedinaGit/Test/blob/master/image%20test/Streeweb%20structure.png) "Streeweb structure"
+[Streeweb structure]: (https://github.com/JosephMedinaGit/Test/blob/master/image%20test/Streeweb_structure.png) "Streeweb structure"
 
