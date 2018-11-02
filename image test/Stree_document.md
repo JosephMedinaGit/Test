@@ -23,5 +23,5 @@ Streeweb structure:
 
 ![Streeweb structure]
 
-[Streeweb structure]: ( Test/image test/Streeweb structure.png ) "Streeweb structure"
+[Streeweb structure]: ( /Test/image test/Streeweb structure.png ) "Streeweb structure"
 
