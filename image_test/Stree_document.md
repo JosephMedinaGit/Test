@@ -19,9 +19,10 @@ TWebInterf and TWebObject are mutually dependent classes. You have two ways to c
 2.	Change Project -> Options -> Directories/Conditionals is D:\Stree\ and Unit output directory to ..\bin\temp , finally change D:\Src\util\myutil1.pas line 559-560 to S := paramstr(0). Than the project will be built in the D:\Stree\ which the current using version of Stree in. You’d better do backup before overlap the current version streeweb.exe file.
 
 Initialize file is D:\Stree\streeweb.ini.
+
 Streeweb structure:
 
-![Streeweb structure] (https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png)
+![Streeweb structure] https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png
 
 [Streeweb structure]: (https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png) "Streeweb structure"
 
