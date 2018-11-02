@@ -21,7 +21,7 @@ TWebInterf and TWebObject are mutually dependent classes. You have two ways to c
 Initialize file is D:\Stree\streeweb.ini.
 Streeweb structure:
 
-![Streeweb structure]
+![Streeweb structure](https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png)
 
 [Streeweb structure]: (https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png) "Streeweb structure"
 
