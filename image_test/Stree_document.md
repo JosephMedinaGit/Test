@@ -22,7 +22,13 @@ Initialize file is D:\Stree\streeweb.ini.
 
 Streeweb structure:
 
-![Streeweb structure](https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png)
+![Streeweb structure] (https://github.com/HPDRC/STree/blob/master/doc/Stree_document_Images/Streeweb%20structure.png)
 
-[Streeweb structure]: (https://github.com/JosephMedinaGit/Test/blob/master/image_test/Streeweb_structure.png) "Streeweb structure"
+[Streeweb structure]: (https://github.com/HPDRC/STree/blob/master/doc/Stree_document_Images/Streeweb%20structure.png) "Streeweb structure"
 
+1.	Strip object is used to search the results in some specific data set such as realestate. 
+2.	Street object: Stree needs update navteq data set which is realized in D:\src\webobjects\streetobject.pas TStreetObject.Init. Also you can search street.
+3.	Zipobject Indexes all US zip codes and performs web queries.
+4.	Helpobject implements help? Command http://stree.cs.fiu.edu/help
+5.	Categoryobject is used to query multiple data in any designate category. Using category command.
+6.	<span style="background-color: #FFFF00">Requestobject</span> is important. It returns all data required by Dr. Rishe. In the future maybe new data set is needed to add in request. And there are several parameters in Requestobjects. BBox is used to for bound box, if bound box is 1 it means bound box will be used.
